@@ -1,5 +1,5 @@
 
-# Flatball (TM)
+# Flatball™
 
 A new spin on an outdated flying disc.
 
